@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://Avii12:Avii12@avii12.rvyxw.mongodb.net/?retryWrite
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002474180866
+LOG_GROUP_ID = -1001979385764
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 6484788124
